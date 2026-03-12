@@ -1,9 +1,3 @@
-Perfeito! Vou montar um **README mais moderno**, com **animações (GIF badges)**, emojis e visual de portfólio — sem as partes que você pediu para remover. 🚀
-
-Você pode **copiar e colar direto no README.md**.
-
----
-
 # 🏦 Conta Banco | Desafio Java
 
 <p align="center">
