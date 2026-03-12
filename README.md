@@ -10,7 +10,7 @@
 Projeto desenvolvido durante o <b>Bootcamp Java Cloud Native - Bradesco | DIO</b> ☕🚀
 </p>
 
----
+
 
 # ✨ Sobre o projeto
 
@@ -20,7 +20,7 @@ Após a inserção dos dados, o sistema retorna uma **mensagem personalizada con
 
 O objetivo do desafio é praticar conceitos fundamentais da linguagem **Java**, como interação com o usuário através do terminal.
 
----
+
 
 # 🧠 Conceitos praticados
 
@@ -34,7 +34,6 @@ Durante o desenvolvimento deste projeto foram utilizados:
 
 🚀 **Execução de programas Java**
 
----
 
 # 🗂 Estrutura do projeto
 
@@ -74,7 +73,7 @@ Olá Mario Andrade, obrigado por criar uma conta em nosso banco,
 sua agência é 067-8, conta 1021 e seu saldo 237.48 já está disponível para saque.
 ```
 
----
+
 
 # 🚀 Tecnologias utilizadas
 
@@ -84,7 +83,7 @@ sua agência é 067-8, conta 1021 e seu saldo 237.48 já está disponível para 
 
 </p>
 
----
+
 
 # 👩‍💻 Autora
 
